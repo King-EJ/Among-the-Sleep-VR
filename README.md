@@ -70,7 +70,7 @@ CHANGES
 -------
 v0.1.4
 -  Third person: his arms stop following the controllers and play the game's own animation again
--  Third person head: his own head is shown (parts the game hides for the first-person view are shown again) and
+-  Third person head: his own head is shown "fake head added" (parts the game hides for the first-person view are shown again) and
 -  The crosshair is removed ([Hands] HideCrosshair).
 -  The game's interaction icon (grab / open / climb...) floats just left of your right hand
 -  Hand beam: as long as the game's reach (or [Hands] BeamLength), stops on what it hits, turns green when there is
@@ -81,3 +81,7 @@ v0.1.4
   of being drawn in 3D.
 -  Fake flashlight in the left hand: hold the left grip 1.7 s.
 -  VR settings menu in the headset (hold Y + left stick click).
+
+Issues
+-
+Toggle 1st\3rd sometimes have walls missing (not a 3rd person game) 
